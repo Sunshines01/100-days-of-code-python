@@ -1,7 +1,7 @@
-Day 1 - Working with variables in python to manage data
+# Day 1 - Working with variables in python to manage data
 
 
-Concepts practised:
+## Concepts practised:
 - Printing to the Console in Python
 - String Manipulation and Code Intelligence
 - Debugging
