@@ -14,16 +14,16 @@ A simple, secure, and lightweight password manager built in Python that helps yo
 
 ## Features
 
-- **Generate Strong Passwords**: Automatically creates cryptographically secure passwords with customizable length and character sets (uppercase, lowercase, digits, symbols).
-- **Copy to Clipboard**: Generated passwords are instantly copied to your clipboard for easy pasting — no need to expose sensitive data on screen.
-- **Local Storage**: All credentials (website, username/email, and password) are stored securely on your local machine using encrypted storage.
+- **Generate Strong Passwords**: Automatically creates secure passwords with customizable length and character sets (uppercase, lowercase, digits, symbols).
+- **Copy to Clipboard**: Generated passwords are instantly copied to your clipboard for easy pasting.
+- **Local Storage**: All credentials (website, username/email, and password) are stored on your local machine.
 - **Search by Website**: Quickly retrieve saved login information by entering the name of the website.
 - **Secure & Private**: No data is sent over the internet. Everything stays on your device.
 
 ## How to Use
 
 1. **Save a New Password**  
-   Run the script and choose to generate a password. Enter the website name and your email. The app will generate a strong password, save it encrypted, and copy it to your clipboard.
+   Run the script and choose to generate a password. Enter the website name and your email. The app will generate a strong password, save it, and copy it to your clipboard.
 
 2. **Retrieve a Password**  
-   Select the search option and enter the name of the website. The stored email and password will be decrypted and displayed (or the password will be copied to clipboard for security).
+   Select the search option and enter the name of the website. The stored email and password will be displayed.
